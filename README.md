@@ -3,9 +3,10 @@
 <img align="right" width="200" src="https://media.licdn.com/dms/image/D4D22AQFezBeLDceWHQ/feedshare-shrink_800/0/1694790524960?e=1698883200&v=beta&t=_7Myg-QcFPjLpDLvtXVMHz7C_erUZoXjO4Wx2zIoiHE>
 ">
 
-- 🌱 I’m currently learning **<u>Python DL libraries</u>: Keras, Tensorflow, PyTorch**
+Right now:
+- 📝 I'm working on my own projects, such as ML models, website with AI technologies, different apps and games.
+- 🌱 I’m currently learning **Python DL libraries: Keras, Tensorflow, PyTorch; Math for data science**
 - 🤝 Looking for a job as a data scientist \ data engineer
-
 - 📫 How to reach me **artemnovotochin@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
