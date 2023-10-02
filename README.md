@@ -1,10 +1,10 @@
-[![MasterHead](https://media.licdn.com/dms/image/D4D22AQFezBeLDceWHQ/feedshare-shrink_800/0/1694790524960?e=1698883200&v=beta&t=_7Myg-QcFPjLpDLvtXVMHz7C_erUZoXjO4Wx2zIoiHE)]
 <h3 align="left">Hi there 👋! I'm Artem</h3>
 <h4 align="left">Data scientist</h4>
 <img align="right" width="200" src="https://media.licdn.com/dms/image/D4D22AQFezBeLDceWHQ/feedshare-shrink_800/0/1694790524960?e=1698883200&v=beta&t=_7Myg-QcFPjLpDLvtXVMHz7C_erUZoXjO4Wx2zIoiHE>
 ">
 
-- 🌱 I’m currently learning **Python DL libraries: Keras, Tensorflow, PyTorch**
+- 🌱 I’m currently learning **<u>Python DL libraries</u>: Keras, Tensorflow, PyTorch**
+- 🤝 Looking for a job as a data scientist \ data engineer
 
 - 📫 How to reach me **artemnovotochin@gmail.com**
 
