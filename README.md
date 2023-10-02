@@ -4,9 +4,9 @@
 ">
 
 Right now:
-- 📝 I'm working on my own projects, such as ML models, website with AI technologies, different apps and games.
+- 📝 I'm working on my own projects, such as **ML models, website with AI technologies, different apps and games**
 - 🌱 I’m currently learning **Python DL libraries: Keras, Tensorflow, PyTorch; Math for data science**
-- 🤝 Looking for a job as a data scientist \ data engineer
+- 🤝 Looking for a job as a **data scientist \ data engineer**
 - 📫 How to reach me **artemnovotochin@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
