@@ -1,7 +1,5 @@
-[![MasterHead](https://www.world-wide.org/images/data-science.jpg)
 <h1 align="center">Greetings 👋! I'm Artem</h1>
 <h3 align="center">Data scientist</h3>
-<img align="right" alt="Data preprocessing" width="400" src="https://i.gifer.com/3odR.gif">
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=trojan081" alt="trojan081" /></a> </p>
 
