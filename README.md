@@ -1,7 +1,7 @@
-![21iq8y7rn1nu3cfte6nsr2v5oela5cm3](https://github.com/trojan081/trojan081/assets/79401984/09d06e8f-7111-4563-b487-0457282e0d82)![MasterHead](https://www.niaid.nih.gov/sites/default/files/styles/image_style_banner_md/public/DataScienceHero-iStock-1386436522_0.jpg?itok=Qz4_yP-6)
+![21iq8y7rn1nu3cfte6nsr2v5oela5cm3](https://github.com/trojan081/trojan081/assets/79401984/09d06e8f-7111-4563-b487-0457282e0d82)
 <h3 align="left">Hi there 👋! I'm Artem</h3>
 <h4 align="left">Data scientist</h4>
-<img align="right" alt="Data preprocessing" width="400" src="![21iq8y7rn1nu3cfte6nsr2v5oela5cm3](https://github.com/trojan081/trojan081/assets/79401984/80b8b603-b1c2-47a0-b532-a064dfb025b0)
+<img align="right" alt="Data preprocessing" width="200" src="![21iq8y7rn1nu3cfte6nsr2v5oela5cm3](https://github.com/trojan081/trojan081/assets/79401984/80b8b603-b1c2-47a0-b532-a064dfb025b0)
 ">
 
 - 🌱 I’m currently learning **Python DL libraries: Keras, Tensorflow, PyTorch**
