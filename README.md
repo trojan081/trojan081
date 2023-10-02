@@ -9,7 +9,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/artem081" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="artem081" height="30" width="40" /></a> <a href="https://t.me/VincV3" target="blank"><img align="center" src="https://web.telegram.org/a/icon-192x192.png" alt="Telegram" height="20" width="20" /></a> <a href="https://wa.me/79653784817" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/WhatsApp.svg/1200px-WhatsApp.svg.png" alt="Whatsapp" height="30" width="30" /></a>
+<a href="https://linkedin.com/in/artem081" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="artem081" height="30" width="40" /></a> <a href="https://t.me/VincV3" target="blank"><img align="center" src="https://web.telegram.org/a/icon-192x192.png" alt="Telegram" height="30" width="30" /></a> <a href="https://wa.me/79653784817" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/WhatsApp.svg/1200px-WhatsApp.svg.png" alt="Whatsapp" height="30" width="30" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
