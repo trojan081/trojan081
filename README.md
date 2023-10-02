@@ -1,7 +1,7 @@
-![21iq8y7rn1nu3cfte6nsr2v5oela5cm3](https://github.com/trojan081/trojan081/assets/79401984/09d06e8f-7111-4563-b487-0457282e0d82)
+!(https://media.licdn.com/dms/image/D4D22AQFezBeLDceWHQ/feedshare-shrink_800/0/1694790524960?e=1698883200&v=beta&t=_7Myg-QcFPjLpDLvtXVMHz7C_erUZoXjO4Wx2zIoiHE)
 <h3 align="left">Hi there 👋! I'm Artem</h3>
 <h4 align="left">Data scientist</h4>
-<img align="right" width="200" src="![21iq8y7rn1nu3cfte6nsr2v5oela5cm3](https://github.com/trojan081/trojan081/assets/79401984/80b8b603-b1c2-47a0-b532-a064dfb025b0)
+<img align="right" width="200" src="https://media.licdn.com/dms/image/D4D22AQFezBeLDceWHQ/feedshare-shrink_800/0/1694790524960?e=1698883200&v=beta&t=_7Myg-QcFPjLpDLvtXVMHz7C_erUZoXjO4Wx2zIoiHE>
 ">
 
 - 🌱 I’m currently learning **Python DL libraries: Keras, Tensorflow, PyTorch**
