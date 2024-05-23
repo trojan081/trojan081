@@ -7,7 +7,7 @@ Right now:
 - 📝 I'm working in a team and making my own projects, such as **ML and NN models, implementing AI technologies to new areas, creating different apps, and conduct research of cutting-edge tools and algorithms**
 - 🌱 Finishing my Master's degree in Data science, focusing on **MLOps: deploy DL models on different cloud services; C++: low-level implementing of NN**
 - 🤝 Currently opened to job offers as a **data scientist / data engineer**
-- 📫 Please, contact me with email: **artemnovotochin@gmail.com**
+- 📫 Please, contact me by email: **artemnovotochin@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
