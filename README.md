@@ -4,10 +4,10 @@
 ">
 
 Right now:
-- 📝 I'm working on my own projects, such as **ML models, website with AI technologies, different apps and games**
-- 🌱 I’m currently learning **Python DL libraries: Keras, Tensorflow, PyTorch; Math for data science**
-- 🤝 Looking for a job as a **data scientist \ data engineer**
-- 📫 How to reach me **artemnovotochin@gmail.com**
+- 📝 I'm working in a team and making my own projects, such as **ML and NN models, implementing AI technologies to new areas, creating different apps**
+- 🌱 Finishing my Master's degree in Data science, focusing on **MLOps: deploy DL models on different cloud services; C++: low-level implementing of NN**
+- 🤝 Currently opened to job offers as a **data scientist / data engineer**
+- 📫 Please, contact me with email: **artemnovotochin@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
