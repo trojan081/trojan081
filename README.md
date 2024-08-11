@@ -7,7 +7,7 @@ Right now:
 - 🌱 Finishing my Master's degree in Data science, focusing on **MLOps: deploy DL models on different cloud services; C++: low-level implementing of NN**
 - 📫 You can contact me by email: **artemnovotochin@gmail.com**
 
-<h3 align="left">Social medias:</h3>
+<h3 align="left">My social media:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/artem081" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="artem081" height="20" width="30" /></a> <a href="https://t.me/VincV3" target="blank"><img align="center" src="https://web.telegram.org/a/icon-192x192.png" alt="Telegram" height="20" width="20" /></a> <a href="https://wa.me/79653784817" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/WhatsApp.svg/1200px-WhatsApp.svg.png" alt="Whatsapp" height="30" width="30" /></a> <a href="https://www.kaggle.com/trojan081" target="blank"><img align="center" src="https://www.kaggle.com/static/images/site-logo.svg" alt="Kaggle" height="30" width="30" /></a>
 </p>
