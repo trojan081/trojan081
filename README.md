@@ -1,15 +1,13 @@
-<h3 align="left">Hi there 👋! My name is Artem</h3>
-<h4 align="left">I'm a Data scientist.</h4>
+<h3 align="left">Hi there 👋! My name is Artem. I'm a data scientist || data analyst.</h3>
 <img align="right" width="200" src="https://media.licdn.com/dms/image/D4D22AQFezBeLDceWHQ/feedshare-shrink_800/0/1694790524960?e=1698883200&v=beta&t=_7Myg-QcFPjLpDLvtXVMHz7C_erUZoXjO4Wx2zIoiHE>
 ">
 
 Right now:
-- 📝 I'm working in a team and making my own projects, such as **ML and NN models, implementing AI technologies to new areas, creating different apps, and conduct research of cutting-edge tools and algorithms**
+- 📝 I'm working in a team and making my own projects, such as **ML models and Neural Networks (CV + NLP), implementing AI technologies to new areas, creating different apps, and conduct research of cutting-edge tools and algorithms**
 - 🌱 Finishing my Master's degree in Data science, focusing on **MLOps: deploy DL models on different cloud services; C++: low-level implementing of NN**
-- 🤝 Currently opened to job offers as a **data scientist / data engineer**
-- 📫 Please, contact me by email: **artemnovotochin@gmail.com**
+- 📫 You can contact me by email: **artemnovotochin@gmail.com**
 
-<h3 align="left">Contacts:</h3>
+<h3 align="left">Social medias:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/artem081" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="artem081" height="20" width="30" /></a> <a href="https://t.me/VincV3" target="blank"><img align="center" src="https://web.telegram.org/a/icon-192x192.png" alt="Telegram" height="20" width="20" /></a> <a href="https://wa.me/79653784817" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/WhatsApp.svg/1200px-WhatsApp.svg.png" alt="Whatsapp" height="30" width="30" /></a> <a href="https://www.kaggle.com/trojan081" target="blank"><img align="center" src="https://www.kaggle.com/static/images/site-logo.svg" alt="Kaggle" height="30" width="30" /></a>
 </p>
