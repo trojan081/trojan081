@@ -3,7 +3,7 @@
 # 👾 Artem Novotochin
 
 ### Data Scientist · ML Engineer · Researcher
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=CAD+Automation+%26+Engineering+AI;MLOps+%7C+Cloud+Deployment;Always+learning+something+new+%F0%9F%9A%80)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=0969DA&center=true&vCenter=true&width=600&lines=CAD+Automation+%26+Engineering+AI;MLOps+%7C+Cloud+Deployment;Always+learning+something+new+%F0%9F%9A%80)](https://git.io/typing-svg)
 </div>
 
 ---
@@ -65,12 +65,10 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=trojan081&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=FFFFFF" height="165" alt="GitHub Stats" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=trojan081&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF" height="165" alt="Top Languages" />
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=trojan081&theme=tokyonight&hide_border=true&background=0D1117&stroke=00D9FF&ring=00D9FF&fire=FF6C37&currStreakLabel=00D9FF" alt="GitHub Streak" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=trojan081&hide_border=true&background=FAFAFA&stroke=0969DA&ring=0969DA&fire=FB8500&currStreakLabel=0969DA&sideLabels=0969DA&dates=24292F&currStreakNum=FB8500&sideNums=0969DA" />
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=trojan081&bg_color=0D1117&color=00D9FF&line=00D9FF&point=FF6C37&hide_border=true" alt="Activity Graph" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=trojan081&bg_color=FAFAFA&color=0969DA&line=0969DA&point=FB8500&hide_border=true&custom_title=Activity+Graph" />
 
 </div>
 
