@@ -21,43 +21,12 @@
 
 ## 🛠️ Tech Stack
 
-**Languages**
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
-
-**ML / DL**
-
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-
-**Web & Tools**
-
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
-
-**🎨 Design & 3D**
-
-![AutoCAD](https://img.shields.io/badge/AutoCAD-E51937?style=for-the-badge&logo=autodesk&logoColor=white)
-![SketchUp](https://img.shields.io/badge/SketchUp-005F9E?style=for-the-badge&logo=sketchup&logoColor=white)
-![3ds Max](https://img.shields.io/badge/3ds%20Max-009EBD?style=for-the-badge&logo=autodesk&logoColor=white)
-![CapCut](https://img.shields.io/badge/CapCut-000000?style=for-the-badge&logo=capcut&logoColor=white)
----
-
-## 🎯 Currently Learning
-
-![MLOps](https://img.shields.io/badge/MLOps-0A0A0A?style=for-the-badge&logo=mlflow&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
-![C++ for NN](https://img.shields.io/badge/C++_for_NN-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+| Category | Tools |
+|----------|-------|
+| **Languages** | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-4169E1?style=flat-square&logo=postgresql&logoColor=white) ![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vuedotjs&logoColor=white) ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white) |
+| **ML / DL** | ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white) ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white) |
+| **Web & Tools** | ![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white) |
+| **Design & 3D** | ![AutoCAD](https://img.shields.io/badge/AutoCAD-E51937?style=flat-square&logo=autodesk&logoColor=white) ![SketchUp](https://img.shields.io/badge/SketchUp-005F9E?style=flat-square&logo=sketchup&logoColor=white) ![3ds Max](https://img.shields.io/badge/3ds%20Max-009EBD?style=flat-square&logo=autodesk&logoColor=white) ![CapCut](https://img.shields.io/badge/CapCut-000000?style=flat-square&logo=capcut&logoColor=white) |
 
 ---
 
@@ -68,7 +37,7 @@
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=trojan081&hide_border=true&background=FAFAFA&stroke=0969DA&ring=0969DA&fire=FB8500&currStreakLabel=0969DA&sideLabels=0969DA&dates=24292F&currStreakNum=FB8500&sideNums=0969DA" />
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=trojan081&bg_color=FAFAFA&color=0969DA&line=0969DA&point=FB8500&hide_border=true&custom_title=Activity+Graph" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=trojan081&bg_color=FAFAFA&color=0969DA&line=0969DA&point=FB8500&hide_border=true&custom_title=Activity+Graph&height=250" />
 
 </div>
 
